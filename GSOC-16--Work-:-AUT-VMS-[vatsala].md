@@ -24,7 +24,7 @@ For submission purpose, systers automated testing repository has been used while
 | Increased test coverage via unit tests | [Issue-346](https://github.com/systers/vms/issues/346), [PR-358](https://github.com/systers/vms/pull/358), [PR-360](https://github.com/systers/vms/pull/360)| Merged|
 | Reduced time, duplication for selenium tests | [Issue-369](https://github.com/systers/vms/issues/369), [PR-370](https://github.com/systers/vms/pull/370) | Merged|
 | Migrated entire test architecture to POM | [Issue-369](https://github.com/systers/vms/issues/369), [Issue-376](https://github.com/systers/vms/issues/376), [PR-375](https://github.com/systers/vms/pull/375) | Open|
-| Added Database checks for CRUD operations | [PR-3](https://github.com/smarshy/vms/pull/3) | Open|
+| Added Database checks for CRUD operations | [PR-380](https://github.com/systers/vms/pull/380) | Open|
 | Documentation | [PR-378](https://github.com/systers/vms/pull/378)| Merged|
 
 ## Results/ Summary
