@@ -11,3 +11,12 @@ Better support from the Django development community as the recent developments 
 Considering various advantages of shifting to CBV, I propose this migration for all the apps in VMS to be a Google Summer of Code 2016 project, and I have come up with a proposal for the same. The following are the tasks to be completed for migration of VMS to CBV
 
 ### Completed Tasks
+* Migrating home app to CBV
+* Migrating authentication app to CBV
+* Migrating administrator app to CBV
+* Migrating event app to CBV
+* Migrating job app to CBV
+* Migrating registration app to CBV
+* Migrating volunteer app to CBV
+* Migrating shift app to CBV
+* Migrating organization app to CBV
