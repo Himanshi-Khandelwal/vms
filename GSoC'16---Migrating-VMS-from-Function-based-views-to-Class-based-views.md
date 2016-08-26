@@ -8,6 +8,7 @@ Few advantages, which VMS can achieve by migrating to Django’s class based vie
 * Replacing the decorators by mixins instead, makes them more flexible, extensible and DRYer, just like the move from FBVs to CBVs.
 * Better handling of form data, which is handled in a traditional way in FBVs.
 * Better support from the Django development community as the recent developments are CBV based.
+
 Considering various advantages of shifting to CBV, I propose this migration for all the apps in VMS to be a Google Summer of Code 2016 project, and I have come up with a proposal for the same. The following are the tasks completed for migration of VMS to CBV
 
 ### Completed Tasks
