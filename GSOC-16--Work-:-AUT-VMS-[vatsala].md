@@ -2,6 +2,13 @@ Wiki Page for description of GSOC work for Systers Volunteer Management System
 
 ***
 
+As a part of GSOC 2016, the following problems have been tackled for automated testing for VMS -
+* Reducing and managing dependency on UI elements - Earlier, the tests were extremely brittle. Any single change in UI required several changes in the tests themselves
+* Reducing time and duplication for tests - The tests reused very little parts of code and data. When they were run on the local machine, they also took up a lot of time (approx. 1.25 hrs)
+* Continuous monitoring for changes in VMS - Since the tests were in a different repository, they were no longer up to date with the changes in VMS over the last one year. Also, they weren't run against each proposed change to the project
+* No database checks were present
+* There were many situations and cases which were untested in both unit and functional tests
+
 ## Links:
 
 For submission purpose, systers automated testing repository has been used while all the actual changes have been made to the main VMS repository. Code has been merged to the automated testing repository only once it has been reviewed for VMS.
