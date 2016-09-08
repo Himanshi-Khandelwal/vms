@@ -15,7 +15,8 @@ For submission purpose, systers automated testing repository has been used while
 
 * Submissions to automated testing repository - [Code Samples Folder](https://github.com/systers/automated-testing/tree/develop/PortalVMSTests), [PR list](https://github.com/systers/automated-testing/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Asmarshy), [authored commits](https://github.com/systers/automated-testing/commits/develop?author=smarshy)
 * Weekly status reports and blogs - [Doku profile](http://systers.org/systers-dev/doku.php/vatsala_swaroop)
-* Blog -[here](https://smarshypants.wordpress.com/)  
+* Blog -[here](https://smarshypants.wordpress.com/)
+* [Proposal](https://docs.google.com/document/d/1URRx6tAzpvlqYQOnXExJ9HnQ1syTP5I0JEXGD5HsCwo/edit)  
 
 
 ## Completed tasks:
