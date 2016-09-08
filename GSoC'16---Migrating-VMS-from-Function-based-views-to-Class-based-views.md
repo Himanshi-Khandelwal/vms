@@ -26,3 +26,4 @@ Considering various advantages of shifting to CBV, I propose this migration for 
 * [PR List](https://github.com/systers/vms/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aamruthasangeeth%20)
 * [Weekly Status Report](http://systers.org/systers-dev/doku.php/amrutha_sangeeth)
 * [ Authored commits](https://github.com/systers/vms/commits/develop?author=amruthasangeeth)
+* [Proposal](https://docs.google.com/document/d/1YM_h1Xpyga_7ZkGzea6HacvShqIQF5hZIyDWoNNbw68/edit?usp=sharing)
