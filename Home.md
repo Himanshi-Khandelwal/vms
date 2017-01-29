@@ -2,7 +2,7 @@ Welcome to the VMS wiki!
 
 Systers has many volunteers and potential volunteers that offer their skills, time and commitment to our vision. This Volunteer Management System will be particularly useful for volunteer coordinators, volunteer sign-up, tracking hours, and reporting.
 
-It will have a new process of notifying specific responsible parties of managing volunteers and the hours they worked through automated features. VMS reporting will enable community program manager to track volunteers hours worked through automated communication emails.
+It has a new process of notifying specific responsible parties of managing volunteers and the hours they worked through automated features. VMS reporting will enable community program manager to track volunteers hours worked through automated communication emails.
 
 Two of our amazing GCI'15 contributors added files in which they wrote about how to get help from the community and how to get involved with VMS
 * [Contribution Guide](https://github.com/systers/vms/blob/develop/docs/Contribution%20Guide.md#contribution-guide)
